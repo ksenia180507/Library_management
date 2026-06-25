@@ -1,6 +1,6 @@
 # Library Management System
 
-## Project Title and Purpose
+## Purpose
 This project is an interactive Library Management System and its purpose is to automate library processes, which allows new users to register or existing users to log in the program. All features searching, borrowing, and returning books abilities. The program also has a librarian mode to manage book stock and manually close active borrowing records. 
 
 ## Instructions for Installation and Execution
