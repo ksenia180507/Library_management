@@ -1,0 +1,23 @@
+Berliner Stadtbibliothek,3847,Harry Potter and the Philosopher's Stone,Fantasy,J. K. Rowling, True, 9
+Berliner Stadtbibliothek,1438,1984,Dystopian Fiction,George Orwell, True, 13
+Berliner Stadtbibliothek,3184,The Hunger Games,Young Adult Dystopian,Suzanne Collins, True, 10
+Berliner Stadtbibliothek,2376,The Catcher in the Rye,Coming-of-Age Fiction,J. D. Salinger, True, 2
+Berliner Stadtbibliothek,2344,To Kill a Mockingbird,Classic Fiction,Harper Lee, False, 0
+Berliner Stadtbibliothek,9087,The Da Vinci Code,Mystery Thriller,Dan Brown, True, 5
+Berliner Stadtbibliothek,3678,The Alchemist,Philosophical Fiction,Paulo Coelho, False, 0
+Jacob-und-Wilhelm-Grimm-Zentrum,5912,The Hobbit,Fantasy,J. R. R. Tolkien, True, 8
+Jacob-und-Wilhelm-Grimm-Zentrum,8671,The Great Gatsby,Classic Fiction,F. Scott Fitzgerald, True, 7
+Jacob-und-Wilhelm-Grimm-Zentrum,9753,Pride and Prejudice,Romance,Jane Austen, True, 6
+Jacob-und-Wilhelm-Grimm-Zentrum,2352,Harry Potter and the Philosopher's Stone,Fantasy,J. K. Rowling, True, 1
+Jacob-und-Wilhelm-Grimm-Zentrum,1234,1984,Dystopian Fiction,George Orwell, True, 2
+Jacob-und-Wilhelm-Grimm-Zentrum,8766,The Hunger Games,Young Adult Dystopian,Suzanne Collins, True, 6
+Jacob-und-Wilhelm-Grimm-Zentrum,5687,The Catcher in the Rye,Coming-of-Age Fiction,J. D. Salinger, True, 2
+Jacob-und-Wilhelm-Grimm-Zentrum,78549,The Psychology of Money,Finance,Morgan Housel, True, 4
+Jacob-und-Wilhelm-Grimm-Zentrum,9087,Becoming,Biography,Michelle Obama, True, 7
+Staatsbibliothek zu Berlin,7265,To Kill a Mockingbird,Classic Fiction,Harper Lee, True, 12
+Staatsbibliothek zu Berlin,4529,The Da Vinci Code,Mystery Thriller,Dan Brown, True, 9
+Staatsbibliothek zu Berlin,6041,The Alchemist,Philosophical Fiction,Paulo Coelho, True, 14
+Staatsbibliothek zu Berlin,3544,The Hobbit,Fantasy,J. R. R. Tolkien, True, 4
+Staatsbibliothek zu Berlin,6543,The Great Gatsby,Classic Fiction,F. Scott Fitzgerald, True, 12
+Staatsbibliothek zu Berlin,6844,Pride and Prejudice,Romance,Jane Austen, True, 1
+Staatsbibliothek zu Berlin,2344,Atomic Habits,Self-Help,James Clear, True, 15

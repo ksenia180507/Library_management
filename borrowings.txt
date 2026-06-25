@@ -1,0 +1,11 @@
+Berliner Stadtbibliothek,1,6,3847,closed
+Berliner Stadtbibliothek,2,1,1438,closed
+Berliner Stadtbibliothek,3,1,1438,closed
+Berliner Stadtbibliothek,4,6,2376,closed
+Berliner Stadtbibliothek,5,6,1438,closed
+Berliner Stadtbibliothek,6,6,3847,active
+Berliner Stadtbibliothek,7,6,2376,active
+Berliner Stadtbibliothek,8,6,3184,active
+Berliner Stadtbibliothek,9,6,2376,closed
+Berliner Stadtbibliothek,10,8,2376,active
+Jacob-und-Wilhelm-Grimm-Zentrum,1,7,1234,active
